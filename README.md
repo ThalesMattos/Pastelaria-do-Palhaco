@@ -7,14 +7,9 @@ O restaurante precisa saber a venda diária e os valores a receber futuramente. 
 
 ## Alunos integrantes da equipe
 
-* Eddie Christian Pereira
-* Matheus Cassimiro Soares de Mello
 * Thales Eduardo Mattos
-* Petrius Arturo Paglioni
-* Victor Ferreira de Almeida
 
 ## Professores responsáveis
 
 * Hugos Bastos de Paula
-* Nome completo do professor 2
 
