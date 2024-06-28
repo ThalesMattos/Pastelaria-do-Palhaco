@@ -1,6 +1,11 @@
 # Comidinhas Veganas - Pastelaria do Palhaço
 
+A pastelaria do Palhaço é um sistema de restaurante que oferece diversos serviços, des de a criação de uma mesa até o pagamento dos clientes. Toda esta aplicação foi feita seguindo os requisitos das *sprints* abaixo.
 
+## Tecnologias usadas
+
+- Java Spring
+- MySql
 
 ## Alunos integrantes da equipe
 
