@@ -15,7 +15,7 @@ A pastelaria do Palhaço é um sistema de restaurante que oferece diversos servi
 
 * Hugos Bastos de Paula
 
-# Especificação
+# Especificações
 ## Sprint 1
 
 Um restaurante atende seus clientes alocando-os em mesas por meio de 'requisições por mesas'. No momento, o restaurante possui 10 mesas: 4 com capacidade para 4 pessoas, 4 com capacidade para 6 pessoas e 2 com capacidade para 8 pessoas. O restaurante deve ser capaz de ampliar a sua capacidade com o menor esforço possível.
